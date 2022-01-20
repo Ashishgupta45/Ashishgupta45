@@ -21,11 +21,8 @@
 <p align="left">
   
 <a href="https://twitter.com/@ashishg83753293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashishg83753293" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/ashishgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishgupta" height="30" width="40" /></a>
-  
 <a href="https://kaggle.com/ashishgupta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashishgupta01" height="30" width="40" /></a>
-  
 <a href="https://www.leetcode.com/45ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="45ash" height="30" width="40" /></a>
 </p>
 
