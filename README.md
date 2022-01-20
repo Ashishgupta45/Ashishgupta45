@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **insurance premium prediction**
 
-- 🌱 I’m currently learning **data science skills**
+- 🌱 I’m currently learning **everything...**
 
 - 👯 I’m looking to collaborate on **open source project**
 
