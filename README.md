@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/@ashishg83753293" target="blank"><img src="https://img.shields.io/twitter/follow/@ashishg83753293?logo=twitter&style=for-the-badge" alt="@ashishg83753293" /></a> </p>
 
 
-- 🔭 I’m currently working on **insurance premium prediction**
+- 🔭 I’m currently working on ----
 
 - 🌱 I’m currently learning **everything...**
 
